@@ -1,7 +1,7 @@
 
 #### 奖项 Awards
 
-###### 2025年
+##### 2025年
 - 第十八届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛\
 机械类 先进成图技术赛道 **[一等奖](contents/data/25/国赛个人.jpg)**
 - 第十八届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛\
@@ -12,7 +12,7 @@
 机械成图技术团体 **[一等奖](contents/data/25/省赛团体.jpg)**(5/5)
 - 山东省大学生先进成图技术与产品信息建模创新大赛\
 增材制造创新设计 **[一等奖](contents/data/25/省赛增材.jpg)**(2/2)
-###### 2024年
+##### 2024年
 - 第十七届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛\
 机械类 先进成图技术赛道 **[二等奖](contents/data/24/国赛个人.jpg)**
 - 第十七届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛\
@@ -33,6 +33,6 @@
 省级预选赛 机械类专业 **[二等奖](contents/data/24/中望省赛.png)**
 
 #### 证书 Certificate
-- **[CSWP](contents/data/CSWP.pdf)** Certified SolidWorks Professional
-- **[CSWA](contents/data/CSWA.pdf)** Certified SolidWorks Associate
-- **[CJT4](contents/data/CJT4.pdf)** 大学日语四级考试
+- **[CSWP](contents/data/CSWP.jpg)** Certified SolidWorks Professional
+- **[CSWA](contents/data/CSWA.jpg)** Certified SolidWorks Associate
+- **[CJT4](contents/data/CJT4.jpg)** 大学日语四级考试
