@@ -3,36 +3,36 @@
 
 ##### 2025年
 - 第十八届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛\
-机械类 先进成图技术赛道 **[一等奖](contents/data/25/国赛个人.jpg)**
+机械类 先进成图技术赛道 **[一等奖](contents/data/awards/25/国赛个人.jpg)**
 - 第十八届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛\
-机械类 团体 **[二等奖](contents/data/25/国赛团体.jpg)**(1/10)
+机械类 团体 **[二等奖](contents/data/awards/25/国赛团体.jpg)**(1/10)
 - 山东省大学生先进成图技术与产品信息建模创新大赛\
-机械产品构型与表达 **[一等奖](contents/data/25/省赛个人.jpg)**
+机械产品构型与表达 **[一等奖](contents/data/awards/25/省赛个人.jpg)**
 - 山东省大学生先进成图技术与产品信息建模创新大赛\
-机械成图技术团体 **[一等奖](contents/data/25/省赛团体.jpg)**(5/5)
+机械成图技术团体 **[一等奖](contents/data/awards/25/省赛团体.jpg)**(5/5)
 - 山东省大学生先进成图技术与产品信息建模创新大赛\
-增材制造创新设计 **[一等奖](contents/data/25/省赛增材.jpg)**(2/2)
+增材制造创新设计 **[一等奖](contents/data/awards/25/省赛增材.jpg)**(2/2)
 ##### 2024年
 - 第十七届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛\
-机械类 先进成图技术赛道 **[二等奖](contents/data/24/国赛个人.jpg)**
+机械类 先进成图技术赛道 **[二等奖](contents/data/awards/24/国赛个人.jpg)**
 - 第十七届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛\
-机械类 团体 **[二等奖](contents/data/24/国赛团队.jpg)**(2/10)
+机械类 团体 **[二等奖](contents/data/awards/24/国赛团队.jpg)**(2/10)
 - 山东省大学生先进成图技术与产品信息建模创新大赛\
-机械产品信息建模 **[一等奖](contents/data/24/省赛个人.jpg)**
+机械产品信息建模 **[一等奖](contents/data/awards/24/省赛个人.jpg)**
 - 山东省大学生先进成图技术与产品信息建模创新大赛\
-机械成图技术团体 **[二等奖](contents/data/24/省赛团队.jpg)**(1/5)
+机械成图技术团体 **[二等奖](contents/data/awards/24/省赛团队.jpg)**(1/5)
 - 山东省大学生先进成图技术与产品信息建模创新大赛\
-增材制造创新设计 **[二等奖](contents/data/24/省赛增材.jpg)**(1/2)
+增材制造创新设计 **[二等奖](contents/data/awards/24/省赛增材.jpg)**(1/2)
 - 山东省大学生先进成图技术与产品信息建模创新大赛\
-机械数字化创新设计 **[一等奖](contents/data/24/省赛创新.jpg)**(2/2)
+机械数字化创新设计 **[一等奖](contents/data/awards/24/省赛创新.jpg)**(2/2)
 - 第二十一届山东省大学生机电产品创新设计竞赛暨第十一届全国大学生机械创新设计大赛山东赛区\
-乘墉克攻团队 **[一等奖](contents/data/24/机电创新.jpg)**(2/3)
+乘墉克攻团队 **[一等奖](contents/data/awards/24/机电创新.jpg)**(2/3)
 - 山东省大学生智能制造大赛\
-三维建模设计 **[一等奖](contents/data/24/智能制造.jpg)**
+三维建模设计 **[一等奖](contents/data/awards/24/智能制造.jpg)**
 - 2024年第四届“中望杯”工业软件大赛\
-省级预选赛 机械类专业 **[二等奖](contents/data/24/中望省赛.png)**
+省级预选赛 机械类专业 **[二等奖](contents/data/awards/24/中望省赛.png)**
 
 #### 证书 Certificate
-- **[CSWP](contents/data/CSWP.jpg)** Certified SolidWorks Professional
-- **[CSWA](contents/data/CSWA.jpg)** Certified SolidWorks Associate
-- **[CJT4](contents/data/CJT4.jpg)** 大学日语四级考试
+- **[CSWP](contents/data/awards/CSWP.jpg)** Certified SolidWorks Professional
+- **[CSWA](contents/data/awards/CSWA.jpg)** Certified SolidWorks Associate
+- **[CJT4](contents/data/awards/CJT4.jpg)** 大学日语四级考试
