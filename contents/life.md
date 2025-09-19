@@ -43,4 +43,4 @@
 
 - 泰山-五岳真形之图
 
-<img src="contents/data/life/五岳真形,jpg" alt="居然看不到图片？" width="300" height="300">
+<img src="contents/data/life/五岳真形.jpg" alt="居然看不到图片？" width="300" height="300">
