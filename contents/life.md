@@ -23,7 +23,7 @@
 
 - 江苏大剧院-民族舞剧《红楼梦》
 
-<img src="contents/data/life/红楼梦舞剧.jpg" alt="你居然看不到图片？" width="300" height="300">
+<img src="contents/data/life/红楼梦舞剧.jpg" alt="你居然看不到图片？" width="400" height="300">
 
 - 江苏-二十四桥
 
