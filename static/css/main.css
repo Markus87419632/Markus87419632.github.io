@@ -109,4 +109,35 @@ section .main-body{
     }
 }
 
+/* 两栏布局样式 */
+#lifePRO-md {
+    display: grid;
+    grid-template-columns: 1fr; /* 默认单列 */
+    gap: 2rem; /* 条目间距 */
+}
 
+/* 当屏幕宽度大于768px时显示两栏 */
+@media (min-width: 768px) {
+    #lifePRO-md {
+        grid-template-columns: repeat(2, 1fr); /* 两列等宽 */
+    }
+}
+
+/* 确保图片在容器中居中显示 */
+#lifePRO-md img {
+    max-width: 100%;
+    height: auto; /* 保持图片比例 */
+    display: block;
+    margin: 0 auto; /* 图片居中 */
+}
+
+/* 调整列表项样式 */
+#lifePRO-md ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+#lifePRO-md li {
+    margin-bottom: 2rem;
+    padding: 1rem;
+}
