@@ -109,35 +109,39 @@ section .main-body{
     }
 }
 
-/* 两栏布局样式 */
-#lifePRO-md {
+/* 标题单独占一行，居中显示 */
+#lifePRO-md h3 {
+    text-align: center;
+    margin: 2rem 0; /* 与上下内容保持距离 */
+    grid-column: 1 / -1; /* 标题横跨所有列 */
+}
+
+/* 列表作为网格容器 */
+#lifePRO-md ul {
+    list-style: none; /* 去除默认列表符号 */
+    padding: 0;
+    margin: 0;
     display: grid;
-    grid-template-columns: 1fr; /* 默认单列 */
+    grid-template-columns: 1fr; /* 移动端单列 */
     gap: 2rem; /* 条目间距 */
 }
 
-/* 当屏幕宽度大于768px时显示两栏 */
+/* 桌面端（屏幕>768px）显示两栏 */
 @media (min-width: 768px) {
-    #lifePRO-md {
+    #lifePRO-md ul {
         grid-template-columns: repeat(2, 1fr); /* 两列等宽 */
     }
 }
 
-/* 确保图片在容器中居中显示 */
+/* 每个列表项（文字+图片）的样式 */
+#lifePRO-md li {
+    padding: 1rem;
+    text-align: center; /* 文字和图片居中 */
+}
+
+/* 图片自适应容器 */
 #lifePRO-md img {
     max-width: 100%;
-    height: auto; /* 保持图片比例 */
-    display: block;
-    margin: 0 auto; /* 图片居中 */
-}
-
-/* 调整列表项样式 */
-#lifePRO-md ul {
-    list-style-position: inside;
-    padding-left: 0;
-}
-
-#lifePRO-md li {
-    margin-bottom: 2rem;
-    padding: 1rem;
+    height: auto;
+    margin: 1rem 0 0 0; /* 图片与文字保持距离 */
 }
