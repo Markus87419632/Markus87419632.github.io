@@ -9,4 +9,4 @@
 省级预选赛 机械类专业 **[二等奖](contents/data/awards/24/中望省赛.png)**
 
 
-#### [点击此处查看更多>>>](lifePRO.html)
+#### [点击此处查看更多>>>](awardsPRO.html)
