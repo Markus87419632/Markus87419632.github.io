@@ -27,5 +27,5 @@
 
 #### 软件开发 software development
 
-- 无限创意 <img src="contents/data/app/无限灵感.png" alt="居然看不到图片？" width="10" height="10">
-[点击此处查看详情>>>](app.html)
+- 无限创意 <img src="contents/data/app/无限灵感.png" alt="居然看不到图片？" width="30" height="30">
+##### [点击此处查看详情>>>](app.html)
