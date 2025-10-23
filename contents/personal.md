@@ -1,7 +1,7 @@
 
 #### 建模制图 modeling drawing
 
-- <img src="data" alt="居然看不到图片？" width="300" height="300">
+- <img src="data" alt="如果看不到图片，请更换网络" width="300" height="300">
 
 #### 打印设计 Print design
 
